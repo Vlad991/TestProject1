@@ -9,6 +9,6 @@ public class DaoFactory {
     }
 
     public static AddressDao getAddressDao() {
-        return addressDao;
+        return addressDao; //
     }
 }
